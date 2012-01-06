@@ -1,0 +1,1 @@
+An example [Binary Search Tree](http://algs4.cs.princeton.edu/32bst/) implemented in [dart](http://dartlang.org). At some point it would be nice to have a visual web ([canvas](http://en.wikipedia.org/wiki/Canvas_element)) for displaying the tree.
